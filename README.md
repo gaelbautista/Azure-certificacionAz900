@@ -1,5 +1,4 @@
 # Azure-certificacionAz900
-Es mi comienzo en github, no soy muy bueno pero lo intento :) 
-## Gael Bautista Gomez
-> Esto es un trabajo de Innova 
-> - Esto es un trabajo de practica ;)
+# Gael Bautista Gomez
+> - Backup
+## Una copia de seguridad, respaldo, copia de respaldo o copia de reserva en ciencias de la información e informática es una copia de los datos originales
